@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/RomanMorozenko/hw-ignat/static/css/main.18f8ca56.css",
-    "main.js": "/RomanMorozenko/hw-ignat/static/js/main.9caedd8a.js",
+    "main.js": "/RomanMorozenko/hw-ignat/static/js/main.0fdd471e.js",
     "static/js/787.66cb4309.chunk.js": "/RomanMorozenko/hw-ignat/static/js/787.66cb4309.chunk.js",
     "static/media/avatar.png": "/RomanMorozenko/hw-ignat/static/media/avatar.d947cb9d0d13765666b6.png",
     "index.html": "/RomanMorozenko/hw-ignat/index.html",
     "main.18f8ca56.css.map": "/RomanMorozenko/hw-ignat/static/css/main.18f8ca56.css.map",
-    "main.9caedd8a.js.map": "/RomanMorozenko/hw-ignat/static/js/main.9caedd8a.js.map",
+    "main.0fdd471e.js.map": "/RomanMorozenko/hw-ignat/static/js/main.0fdd471e.js.map",
     "787.66cb4309.chunk.js.map": "/RomanMorozenko/hw-ignat/static/js/787.66cb4309.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.18f8ca56.css",
-    "static/js/main.9caedd8a.js"
+    "static/js/main.0fdd471e.js"
   ]
 }
