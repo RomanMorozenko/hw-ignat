@@ -33,7 +33,7 @@ export const message0: MessageType = {
     },
 }
 export const friendMessage0: MessageType = {
-    id: 100,
+    id: 1,
     user: {
         avatar: avatar, // можно менять
         name: 'Friend Name', // можно менять
