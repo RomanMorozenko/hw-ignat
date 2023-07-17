@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/RomanMorozenko/hw-ignat/static/css/main.18f8ca56.css",
-    "main.js": "/RomanMorozenko/hw-ignat/static/js/main.24ef6858.js",
-    "static/js/787.66cb4309.chunk.js": "/RomanMorozenko/hw-ignat/static/js/787.66cb4309.chunk.js",
-    "static/media/avatar.png": "/RomanMorozenko/hw-ignat/static/media/avatar.d947cb9d0d13765666b6.png",
-    "index.html": "/RomanMorozenko/hw-ignat/index.html",
-    "main.18f8ca56.css.map": "/RomanMorozenko/hw-ignat/static/css/main.18f8ca56.css.map",
-    "main.24ef6858.js.map": "/RomanMorozenko/hw-ignat/static/js/main.24ef6858.js.map",
-    "787.66cb4309.chunk.js.map": "/RomanMorozenko/hw-ignat/static/js/787.66cb4309.chunk.js.map"
+    "main.css": "/hw-ignat/static/css/main.18f8ca56.css",
+    "main.js": "/hw-ignat/static/js/main.1fcd1a1b.js",
+    "static/js/787.66cb4309.chunk.js": "/hw-ignat/static/js/787.66cb4309.chunk.js",
+    "static/media/avatar.png": "/hw-ignat/static/media/avatar.d947cb9d0d13765666b6.png",
+    "index.html": "/hw-ignat/index.html",
+    "main.18f8ca56.css.map": "/hw-ignat/static/css/main.18f8ca56.css.map",
+    "main.1fcd1a1b.js.map": "/hw-ignat/static/js/main.1fcd1a1b.js.map",
+    "787.66cb4309.chunk.js.map": "/hw-ignat/static/js/787.66cb4309.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.18f8ca56.css",
-    "static/js/main.24ef6858.js"
+    "static/js/main.1fcd1a1b.js"
   ]
 }
