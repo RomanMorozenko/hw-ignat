@@ -1,16 +1,28 @@
 .button {
+    all:unset;
+    text-align: center;
+    border-radius: 4px;
+    width: 120px;
+    height: 30px;
+    font-family: 'Helvetica', sans-serif;
+    color:whitesmoke;
 }
 
 .disabled {
+    background-color: green;
 }
 
 .secondary {
+    background-color: blue;
 }
 
 .default {
+    background-color: yellow;
+    color:black;
 }
 
 .red {
+    background-color: red;
 }
 
 .default:hover {
